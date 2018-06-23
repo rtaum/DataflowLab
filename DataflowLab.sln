@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataflowLab", "DataflowLab\DataflowLab.csproj", "{A61EF5FC-F0B9-468A-8B35-4202604E0310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61EF5FC-F0B9-468A-8B35-4202604E0310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61EF5FC-F0B9-468A-8B35-4202604E0310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61EF5FC-F0B9-468A-8B35-4202604E0310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61EF5FC-F0B9-468A-8B35-4202604E0310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCD11E9-98E9-47B5-BE6D-02BD662881E8}
+	EndGlobalSection
+EndGlobal
